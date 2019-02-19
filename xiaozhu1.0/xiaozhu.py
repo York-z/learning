@@ -2,7 +2,7 @@
 '''
     小猪短租爬虫
     @York
-    v1.1
+    v1.0
     2019-2-19
 '''
 import requests
